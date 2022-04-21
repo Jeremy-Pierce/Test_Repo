@@ -25,3 +25,8 @@ print(text)
 [References](references)
 
 ![Three circular icons that represent a phone, the python logo, and money.](images/fintech.png)
+
+## Usage
+
+## Contributors
+## License Specify the details of your project’s license - that is, how others can or cannot use your code and files.
