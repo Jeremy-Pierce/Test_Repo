@@ -29,4 +29,4 @@ print(text)
 ## Usage
 
 ## Contributors
-## License Specify the details of your project’s license - that is, how others can or cannot use your code and files.
+## License 
